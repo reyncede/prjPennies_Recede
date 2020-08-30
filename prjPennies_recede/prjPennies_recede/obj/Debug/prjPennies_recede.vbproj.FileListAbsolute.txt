@@ -1,0 +1,12 @@
+C:\Users\donta\source\repos\prjPennies_recede\prjPennies_recede\bin\Debug\prjPennies_recede.exe.config
+C:\Users\donta\source\repos\prjPennies_recede\prjPennies_recede\bin\Debug\prjPennies_recede.exe
+C:\Users\donta\source\repos\prjPennies_recede\prjPennies_recede\bin\Debug\prjPennies_recede.pdb
+C:\Users\donta\source\repos\prjPennies_recede\prjPennies_recede\bin\Debug\prjPennies_recede.xml
+C:\Users\donta\source\repos\prjPennies_recede\prjPennies_recede\obj\Debug\prjPennies_recede.vbprojAssemblyReference.cache
+C:\Users\donta\source\repos\prjPennies_recede\prjPennies_recede\obj\Debug\prjPennies_recede.Resources.resources
+C:\Users\donta\source\repos\prjPennies_recede\prjPennies_recede\obj\Debug\prjPennies_recede.vbproj.GenerateResource.cache
+C:\Users\donta\source\repos\prjPennies_recede\prjPennies_recede\obj\Debug\prjPennies_recede.vbproj.CoreCompileInputs.cache
+C:\Users\donta\source\repos\prjPennies_recede\prjPennies_recede\obj\Debug\prjPennies_recede.exe
+C:\Users\donta\source\repos\prjPennies_recede\prjPennies_recede\obj\Debug\prjPennies_recede.xml
+C:\Users\donta\source\repos\prjPennies_recede\prjPennies_recede\obj\Debug\prjPennies_recede.pdb
+C:\Users\donta\source\repos\prjPennies_recede\prjPennies_recede\obj\Debug\prjPennies_recede.frmMain.resources
